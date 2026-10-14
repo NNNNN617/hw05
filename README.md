@@ -1,19 +1,11 @@
 <!DOCTYPE html>
-
 <html lang="zh-Hant">
-
 <head>
-    
     <meta charset="UTF-8">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     <meta name="description" content="走進台中洲際棒球場，認識國際賽事與職棒主場，透過棒球縫線設計、球場資料表格、照片、影片與 Google 地圖閱讀城市棒球熱情。">
-
-    <meta name="author" content="HTML 課程示範作者">
-   
-    <meta name="robots" content="index, follow">
-   
+    <meta name="author" content="HTML 課程示範作者">   
+    <meta name="robots" content="index, follow">   
     <meta property="og:type" content="article">
     <meta property="og:locale" content="zh_TW">
     <meta property="og:title" content="台中洲際棒球場報導｜城市裡的棒球熱情">
@@ -26,15 +18,12 @@
     <title>台中洲際棒球場報導｜城市裡的棒球熱情</title>
 </head>
 
-<body>
-    
-    <header id="top">
-      
+<body>    
+    <header id="top">     
         <h1>台中洲際棒球場：城市裡的棒球熱情</h1>
         <p><small>城市地標 · 國際賽事 · 職棒主場</small></p>
         <p><strong>從國際賽事到職棒主場，一起認識台中重要的棒球地標。</strong></p>        <!-- mark 標示本篇閱讀焦點；使用瀏覽器內建的醒目效果。 -->
-        <p>本期焦點：<mark>棒球縫線造型與美式球場風格</mark>，從球場報導延伸到位置地圖。</p>
-     
+        <p>本期焦點：<mark>棒球縫線造型與美式球場風格</mark>，從球場報導延伸到位置地圖。</p>    
         <p>作者：D1243359 高銘鴻｜報導整理日期：<time datetime="2026-10-14">2026 年 10 月 14 日</time></p>
         <p><small>本文為資料整理型教學報導，非現場採訪紀錄。</small></p>
     </header>
@@ -53,10 +42,8 @@
             <li><a href="#sources">資料來源</a></li>
         </ul>
     </nav>
-
-    
+  
     <hr>
-
     
     <main id="main-content">
         
@@ -64,8 +51,7 @@
             
             
             <section id="intro">
-                <h2>一、球場簡介</h2>
-                
+                <h2>一、球場簡介</h2>    
                 <p>
                     台中洲際棒球場位於台中市北屯區，
                     是台中市重要的棒球運動場館，也是台灣舉辦國際級棒球賽事的重要場地之一。
@@ -84,8 +70,7 @@
                     對喜歡棒球的球迷來說，
                     到洲際棒球場看球不只是觀看比賽，
                     也是感受台中棒球文化的一種方式。
-                </p>
-                
+                </p>         
                 <p>球場地址：台中市北屯區崇德路三段 835 號。<br>球場位置：崇德路與環中路口附近。</p>
             </section>
 
@@ -185,8 +170,7 @@
             </section>
 
             <hr>
-
-          
+     
             <section id="video">
                 <h2>五、影音報導</h2>
                 <p>透過下方影片認識台中洲際棒球場的外觀與周邊環境，再比較影片畫面與本文介紹的球場特色。</p>
@@ -203,8 +187,7 @@
                 <p><a href="https://www.youtube.com/watch?v=5GOttCk9z54" target="_blank" rel="noopener noreferrer">在 YouTube 觀看台中洲際棒球場空拍影片（另開分頁）</a></p>
                 <p><small>影片為外部作者發布的球場介紹，實際場地狀況請以官方最新資訊為準。</small></p>
             </section>
-
-           
+          
             <section id="map">
                 <h2>六、位置地圖：找到洲際棒球場</h2>
                 <p>台中洲際棒球場位於台中市北屯區，地址為<strong>崇德路三段 835 號</strong>（崇德路與環中路口附近）。
@@ -223,8 +206,7 @@
             </section>
 
             <hr>
-
-            
+          
             <aside id="tips" aria-labelledby="tips-title">
                 <h2 id="tips-title">參觀小提醒</h2>
                 <details open>
@@ -238,8 +220,7 @@
             </aside>
 
             <hr>
-
-            
+         
             <section id="sources">
                 <h2>七、資料來源</h2>
                 <p>本報導依下列資料整理，部分參觀順序與觀察建議由示範作者規劃。</p>
@@ -255,8 +236,7 @@
     </main>
 
     <hr>
-    
-   
+       
     <footer>
         <p><strong>第五次作業｜台中洲際棒球場報導</strong></p>
         <p><small>作者：D1243359 高銘鴻 · 更新日期：2026 年 10 月 7 日</small></p>
